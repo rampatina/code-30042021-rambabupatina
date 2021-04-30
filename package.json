@@ -1,5 +1,5 @@
 {
-  "name": "code-29042021-rambabupatina",
+  "name": "code-30042021-rambabupatina",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rampatina/code-29042021-rambabupatina.git"
+    "url": "git+https://github.com/rampatina/code-30042021-rambabupatina.git"
   },
   "author": "Rambabu Patina <Rambabu.Patina@appfire.com> (http://appfire.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rampatina/code-29042021-rambabupatina/issues"
+    "url": "https://github.com/rampatina/code-30042021-rambabupatina/issues"
   },
-  "homepage": "https://github.com/rampatina/code-29042021-rambabupatina#readme",
+  "homepage": "https://github.com/rampatina/code-30042021-rambabupatina#readme",
   "dependencies": {
     "stream-json": "^1.7.1"
   },
